@@ -2,7 +2,6 @@
   "name": "starter",
   "version": "1.0.0",
   "description": "Starting point for my projects",
-  "main": "index.js",
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint --fix .",
@@ -13,7 +12,7 @@
     "url": "git+https://github.com/pricillaragao/starter.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pricilla Patricia de Aragao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pricillaragao/starter/issues"
